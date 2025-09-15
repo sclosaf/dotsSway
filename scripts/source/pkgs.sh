@@ -16,4 +16,6 @@ export packages=(
     "bash"
     "zsh"
     "brightnessctl"
+    "git"
+    "github-cli"
 )
