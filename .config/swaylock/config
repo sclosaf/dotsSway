@@ -1,0 +1,37 @@
+# Colori Gruvbox (tema dark)
+color=00000000      # sfondo principale
+bs-hl-color=00000000  # backspace highlight (rosso)
+caps-lock-bs-hl-color=00000000  # caps lock backspace (giallo)
+caps-lock-key-hl-color=00000000  # caps lock key highlight (verde)
+key-hl-color=00000000  # key highlight (verde)
+layout-bg-color=00000000
+layout-border-color=00000000
+layout-text-color=00000000  # testo principale
+
+# Cerchio trasparente quando si digita
+ring-color=00000000        # anello trasparente quando inattivo
+ring-clear-color=00000000    # anello clear (rosso)
+ring-caps-lock-color=00000000  # anello caps lock (giallo)
+ring-ver-color=00000000      # anello verification (verde oliva)
+ring-wrong-color=00000000    # anello wrong (rosso)
+
+text-color=00000000          # testo principale
+text-clear-color=00000000    # testo clear
+text-caps-lock-color=00000000  # testo caps lock
+text-ver-color=00000000      # testo verification
+text-wrong-color=00000000    # testo wrong
+
+# Interno completamente trasparente (questo rende il cerchio trasparente quando si digita)
+inside-color=00000000      # interno trasparente
+inside-clear-color=00000000
+inside-caps-lock-color=00000000
+inside-ver-color=00000000
+inside-wrong-color=00000000
+
+# Linee trasparenti
+line-color=00000000
+line-clear-color=00000000
+line-caps-lock-color=00000000
+line-ver-color=00000000
+line-wrong-color=00000000
+separator-color=00000000
