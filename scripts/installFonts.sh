@@ -5,7 +5,7 @@ source ./source/fonts.sh
 targetDir="$HOME/.local/share/fonts"
 mkdir -p "$targetDir"
 
-echo "Starting font installation using yay..."
+echo "Installation..."
 
 for fontName in "${!fontList[@]}"; do
     packageName="${fontList[$fontName]}"
